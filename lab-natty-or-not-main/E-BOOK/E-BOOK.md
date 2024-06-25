@@ -13,5 +13,3 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando desde a história das IAs Genativas até como elas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
-
-[LINK PARA O E-BOOK AQUI](E-BOOK\A Jornada da IA_ Um Passeio pelo Futuro.pdf)
